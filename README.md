@@ -16,10 +16,10 @@ Commands:
 pseudo.mic() - Turns On/Off Mic (Have to be in meet already)<br>
 pseudo.cam() - Same but Camera<br>
 pseudo.leave() - Leave Meet<br>
-pseudo.presentScreen() - Present Screen (Full Window)
-pseudo.selectScreen(urlorprogram) - Selects Screen - E.G. pseudo.presentScreen(); pseudo.selectScreen("calc") - add a /max switch before to make it fullscreen
-pesudo.stopShare() - Stops presentScreen() share.
-pseudo.sendChat(message) - Send message in chat.
+pseudo.presentScreen() - Present Screen (Full Window)<br>
+pseudo.selectScreen(urlorprogram) - Selects Screen - E.G. pseudo.presentScreen(); pseudo.selectScreen("calc") - add a /max switch before to make it fullscreen<br>
+pesudo.stopShare() - ends presentScreen() share.<br>
+pseudo.sendChat(message) - Send message in chat.<br>
 
 
 
