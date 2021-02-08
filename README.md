@@ -13,9 +13,9 @@ pseudo.connectToMeet("meet url")
 
 Commands:
 
-pseudo.mic() - Turns On/Off Mic (Have to be in meet already)
-pseudo.cam() - Same but Camera
-pseudo.leave() - Leave Meet
+pseudo.mic() - Turns On/Off Mic (Have to be in meet already)<br>
+pseudo.cam() - Same but Camera<br>
+pseudo.leave() - Leave Meet<br>
 pseudo.presentScreen() - Present Screen (Full Window)
 pseudo.selectScreen(urlorprogram) - Selects Screen - E.G. pseudo.presentScreen(); pseudo.selectScreen("calc") - add a /max switch before to make it fullscreen
 pesudo.stopShare() - Stops presentScreen() share.
